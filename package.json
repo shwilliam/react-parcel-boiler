@@ -16,12 +16,12 @@
   },
   "homepage": "https://github.com/shwilliam/react-parcel-boiler#readme",
   "dependencies": {
-    "parcel-bundler": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.19.0"
+    "eslint-plugin-react": "^7.19.0",
+    "parcel-bundler": "^1.12.4"
   }
 }
